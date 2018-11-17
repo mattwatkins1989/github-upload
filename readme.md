@@ -1,1 +1,1 @@
-## Learning how to use VS Code with Git
+## Learning how to use VS Code with Git!
